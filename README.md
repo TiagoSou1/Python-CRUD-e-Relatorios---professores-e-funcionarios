@@ -48,17 +48,22 @@ pip install -r requirements.txt
 
 ## Rodando
 
+- Clone o repositório:
+  
 ```bash
 git clone <URL_DO_REPOSITORIO>
 cd nome-do-repositorio
 ```
 
+- Configure as credenciais no main.py:
+  
 ```python
 USERNAME = "seu_usuario"
 PASSWORD = "sua_senha"
 DSN = "localhost/XE"
 ```
-
+- Execute o sistema:
+  
 ```bash
 python main.py
 ```
