@@ -1,9 +1,7 @@
 # Python CRUD e Relatorios - professores e funcionarios (oracle)
 
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)  
-[![Oracle](https://img.shields.io/badge/Oracle-Database-orange?logo=oracle)](https://www.oracle.com/database/)  
-[![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)  [![Oracle](https://img.shields.io/badge/Oracle-Database-orange?logo=oracle)](https://www.oracle.com/database/)  [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
 
 Sistema em **Python** para gerenciamento de **Funcionários, Cargos, Professores e Endereços** utilizando banco de dados **Oracle**. Permite CRUD completo e geração de relatórios.
 
